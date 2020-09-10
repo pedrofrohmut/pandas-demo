@@ -1,0 +1,9 @@
+# VIM
+**/*.swp
+**/*.swo
+
+# Python
+venv/
+
+# Data
+data/
